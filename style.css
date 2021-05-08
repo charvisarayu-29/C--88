@@ -1,0 +1,48 @@
+.body_background 
+{
+    background-image: url("https://lh3.googleusercontent.com/YoQPi_OT5zPJjzsg7F71ya_3sX9Qi1KC7hFCgrIopsIEOH4MCpJxt1q4yRqXtAGqE1p08ZmyRqrB0RFGJ2Mz=w1920-h937");
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+
+h2
+{
+	border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+ }
+h3
+{
+	display: inline-block;
+}
+span
+{
+	color: black;	
+}
+a
+{
+	text-decoration: none;
+	font-size: 20px;
+	padding: 10px;
+    float: left;
+    border-radius: 10px;
+}
+#head_info
+{
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
+p
+{
+	text-align: center;
+font-size: 30px;
+background-color: white;
+font-style:italic;
+}
